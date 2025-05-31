@@ -22,15 +22,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://www.peezies.place.com',
+  url: 'https://www.peezies.place',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Peezie\'s Place', // Usually your GitHub org/user name.
-  projectName: 'D&D Journal', // Usually your repo name.
+  organizationName: 'pmichaelscott.github.io', // Usually your GitHub org/user name.
+  projectName: 'DnD-journal', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
