@@ -80,9 +80,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      // image: 'img/docusaurus-social-card.jpg',
-      metadata: [{name: 'og:description', content: 'A place on the internet'}],
+      image: 'img/pp.jpg',
+      metadata: [
+        {name: 'og:description', content: 'A place on the internet'},
+        {name: 'description', content: 'A place on the internet'},
+
+      ],
       navbar: {
         title: 'Peezie\'s Place',
         // logo: {
