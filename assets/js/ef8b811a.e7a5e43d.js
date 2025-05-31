@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpeezies_place=self.webpackChunkpeezies_place||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Paul Scott","title":"Some guy","url":"https://google.com","imageURL":"https://github.com/yangshun.png","key":"pscott","page":null,"count":1}]}')}}]);
