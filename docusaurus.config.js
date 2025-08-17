@@ -93,18 +93,25 @@ const config = {
           // src: 'img/logo.svg',
         // },
         items: [
+          //           {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Docs',
+          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'destiny',
+            position: 'left',
+            label: 'Destiny',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'dnd',
             position: 'left',
-            label: 'D&D Stuff',
+            label: 'D&D',
           },
-          // {to: '/blog', label: 'blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          
         ],
       },
       footer: {
