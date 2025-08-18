@@ -1,14 +1,16 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: Epoptes - Hydra Encounter
 ---
 
 # Epoptes - Hydra Encounter 
 
-Objective: defeat the big Hydra
-The party will split into two groups of three, left and right
+Objective: Work together to destroy eyes and flashlights on clones of the boss, then defeat Epoptes
+
 
 **Roles**
+The party will split into two groups of three, left and right
+
 - [Side room](#side-room-role) - 2 players
 - [Center Pillar](#center-pillar-role) - 2 players
 - Add clear - 2 players

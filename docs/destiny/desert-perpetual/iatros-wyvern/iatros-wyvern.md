@@ -1,11 +1,11 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: Iatros - Wyvern Encounter
 ---
 
 # Iatros - Wyvern Encounter
 
-Objective: Defeat Iatros
+Objective: Build a series of platforms so your climber can grab a mcguffin at the top, which then allows you to damage Iatros. 
 
 
 **Roles**
