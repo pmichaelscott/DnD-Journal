@@ -1,2 +1,2 @@
-# DnD-Journal
-Just a small resource for my D&D campaigns
+# Peezies.place 
+Just a small site I'm using to share notes for my gaming stuff. 
